@@ -1,0 +1,17 @@
+[
+  {
+    "id": "6997bf662f67",
+    "title": "Grand-Theft-Auto-V",
+    "price": 5000,
+    "coverImageUrls": [
+      "https://raw.githubusercontent.com/joraboymuhammad-code/mu_striker_data/main/images/6997bf662f67_1.jpg",
+      "https://raw.githubusercontent.com/joraboymuhammad-code/mu_striker_data/main/images/6997bf662f67_2.jpg",
+      "https://raw.githubusercontent.com/joraboymuhammad-code/mu_striker_data/main/images/6997bf662f67_3.jpg"
+    ],
+    "torrentUrl": "https://raw.githubusercontent.com/joraboymuhammad-code/mu_striker_data/main/torrents/6997bf662f67.torrent",
+    "trailerUrl": "https://www.youtube.com/watch?v=3DBrG2YjqQA",
+    "sizeMb": 0,
+    "description": "",
+    "developer": "MU_STRIKER"
+  }
+]
